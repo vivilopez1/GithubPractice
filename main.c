@@ -10,5 +10,8 @@ int main(void) {
   printf("I love dogs \n");
 
   printf("I do not like dogs \n");
+
+   printf("I do not like dogs \n");
+  
   return 0;
 }
