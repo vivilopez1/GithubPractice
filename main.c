@@ -6,5 +6,7 @@ int main(void) {
   printf("I like birds\n");
 
    printf("I like catsgit \n");
+
+  printf("I love dogs \n");
   return 0;
 }
