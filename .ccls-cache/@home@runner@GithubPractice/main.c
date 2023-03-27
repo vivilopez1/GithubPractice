@@ -2,5 +2,16 @@
 
 int main(void) {
   printf("Hello World\n");
+
+  printf("I like birds\n");
+
+   printf("I like catsgit \n");
+
+  printf("I love dogs \n");
+
+  printf("I do not like dogs \n");
+
+   printf("I want a dog lol\n");
+  
   return 0;
 }
