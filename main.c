@@ -8,5 +8,7 @@ int main(void) {
    printf("I like catsgit \n");
 
   printf("I love dogs \n");
+
+  printf("I do not like dogs \n");
   return 0;
 }
