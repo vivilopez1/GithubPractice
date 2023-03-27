@@ -11,7 +11,8 @@ int main(void) {
 
   printf("I do not like dogs \n");
 
-   printf("I want a dog lol\n");
+   printf("I do not like dogs \n");
+  printf("I do not like dogs \n");
   
   return 0;
 }
